@@ -11,7 +11,12 @@
   b. 以下附圖是training的過程中，會儲存的checkpoints檔案(含A to B 以及 B to A)  
   ![alt text](picture/train/result.png)  
   c. A to B testing的結果照片顯示(右邊為原圖，左邊為原圖轉成冬天的效果)  
-  
+  ![alt text](picture/test/a2b/a2b1.png)  
+  ![alt text](picture/test/a2b/a2b2.png)  
+  ![alt text](picture/test/a2b/a2b3.png)  
+  ![alt text](picture/test/a2b/a2b4.png)  
+  ![alt text](picture/test/a2b/a2b5.png)  
+  ![alt text](picture/test/a2b/a2b6.png)  
   d. B to A testing的結果照片顯示(右邊為原圖，左邊為原圖轉成夏天的效果)  
 
 B.
