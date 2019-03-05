@@ -12,7 +12,7 @@
   2. 以下附圖是training的過程中，會儲存的checkpoints檔案(含A to B 以及 B to A)  
   ![alt text](picture/train/result.png)  
     
-  iii. A to B testing的結果照片顯示(右邊為原圖，左邊為原圖轉成冬天的效果)  
+  3. A to B testing的結果照片顯示(右邊為原圖，左邊為原圖轉成冬天的效果)  
   ![alt text](picture/test/a2b/a2b1.png)  
   ![alt text](picture/test/a2b/a2b2.png)  
   ![alt text](picture/test/a2b/a2b3.png)  
@@ -20,7 +20,7 @@
   ![alt text](picture/test/a2b/a2b5.png)  
   ![alt text](picture/test/a2b/a2b6.png)  
     
-  iv. B to A testing的結果照片顯示(右邊為原圖，左邊為原圖轉成夏天的效果)  
+  4. B to A testing的結果照片顯示(右邊為原圖，左邊為原圖轉成夏天的效果)  
   ![alt text](picture/test/b2a/b2a1.png)  
   ![alt text](picture/test/b2a/b2a2.png)  
   ![alt text](picture/test/b2a/b2a3.png)  
@@ -29,7 +29,13 @@
   ![alt text](picture/test/b2a/b2a6.png)  
     
 2.Inference cycleGAN in personal image  
-  i. 以下附圖為使用cycleGAN跑personal image的結果(右邊為原圖，左邊為reference成冬天的效果)  
+  -以下附圖為使用cycleGAN跑personal image的結果(右邊為原圖，左邊為reference成冬天的效果)  
+  ![alt text](picture/inference/inference1.png)  
+  ![alt text](picture/inference/inference2.png)  
+  ![alt text](picture/inference/inference3.png)  
+  ![alt text](picture/inference/inference4.png)  
+  ![alt text](picture/inference/inference5.png)  
+  
   
 
 
